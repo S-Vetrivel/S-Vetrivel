@@ -129,22 +129,12 @@ Experienced full-stack engineer and security researcher specializing in the arch
 
 ---
 
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-Vetrivel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="Vetrivel's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Vetrivel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" width="48%" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
 I'm always interested in discussing cutting-edge technologies, architectural challenges, and innovative solutions. Whether you're looking for consulting on DevSecOps transformation, full-stack development expertise, or security research collaboration, feel free to reach out!
 
 - **GitHub:** [@S-Vetrivel](https://github.com/S-Vetrivel)
-- **Email:** [Connect via GitHub](https://github.com/S-Vetrivel)
-
 ---
 
 <div align="center">
